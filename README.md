@@ -116,16 +116,3 @@ All tables are normalized to **BCNF**:
 3. Load initial product/brand/store data
 4. Test PL/SQL logic for triggers and procedures
 
----
-
-## 🤝 Credits
-Developed as part of an academic/enterprise project for backend automation in retail inventory management using Oracle SQL and PL/SQL.
-
----
-
-**Author:** *Your Name*  
-**Tech Stack:** SQL, PL/SQL  
-**DB Engine:** Oracle / MySQL  
-**Normalization:** BCNF  
-**Access Control:** Role-based with audit
-
